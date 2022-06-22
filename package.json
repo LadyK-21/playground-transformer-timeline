@@ -24,7 +24,7 @@
     "@rollup/plugin-node-resolve": "^7.1.0",
     "@rollup/plugin-typescript": "^3.0.0",
     "@types/react": "^16.9.23",
-    "concurrently": "^5.1.0",
+    "concurrently": "^7.2.1",
     "monaco-editor": "^0.19.3",
     "node-fetch": "^2.6.0",
     "rollup": "^1.31.0",
